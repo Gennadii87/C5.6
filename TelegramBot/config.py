@@ -1,4 +1,4 @@
-TOKEN = "5812646614:AAEs1yr3bILQvdSyQZPsRNeIs1X20LP4VaY"
+TOKEN = "TOKEN BOT"
 
 exchanges = {
     'доллар': 'USD',
@@ -7,7 +7,7 @@ exchanges = {
 }
 
 KEY = {
-    "apikey": "gi6FI2KRlfSbZ7Q6r6ocWaFJBOR2mmY4"
+    "apikey": "ВАШ API KEY"
 }
 val1 = 'RUB'
 val2 = 'USD'
